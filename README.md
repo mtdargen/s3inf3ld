@@ -1,4 +1,4 @@
-s3inf3ld
+CERA
 ========
 
-randomly generate Jerry Seinfeld standup with the magic of Trigrams
+randomly generate standup standup with the magic of n-grams
